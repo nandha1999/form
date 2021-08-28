@@ -1,0 +1,11 @@
+
+.required:after {
+  content:" *";
+  color: red;
+}
+.login{
+    margin-bottom: 20px;
+}
+.education{
+    margin-bottom: 20px;
+}
